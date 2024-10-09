@@ -16,7 +16,7 @@
 
 ###
 
-<h6 align="right">💻 Software Development Technician <br><br>👨‍💼 Committed professional <br><br>🖥️ Passionate about coding and software development <br><br>🤝 Sociable and enjoy building relationships<br><br>🌍 Enjoy working with different people and learning from their experiences</h6>
+<h5 align="center">💻 Software Development Technician <br><br>👨‍💼 Committed professional <br><br>🖥️ Passionate about coding and software development <br><br>🤝 Sociable and enjoy building relationships<br><br>🌍 Enjoy working with different people and learning from their experiences</h5>
 
 ###
 
