@@ -15,6 +15,7 @@
 <img align="left" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThkNW16MnA0anUzcGU5aHZqYzlqYnc3eHljdWZkbTNmNnpkdDFsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lP8ezu4iNVmZYOZn3j/giphy.gif"  />
 
 ###
+---
 
 <h4 align="left">💻 Software Development Technician <br><br>👨‍💼 Committed professional <br><br>🖥️ Passionate about coding and software development <br><br>🤝 Sociable nature and good at building relationships<br><br>🗣️ Focus on open communication and empathy<br><br>🌍 Enjoy working with different people and learning from their experiences</h4>
 
