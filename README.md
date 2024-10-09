@@ -16,12 +16,12 @@
 
 ###
 
-> 💻 Software Development Technician  
-> 👨‍💼 Committed professional  
-> 🖥️ Passionate about coding and software development  
-> 🤝 Sociable nature and good at building relationships  
-> 🗣️ Focus on open communication and empathy  
-> 🌍 Enjoy working with different people and learning from their experiences
+>>> 💻 Software Development Technician  
+>>> 👨‍💼 Committed professional  
+>>> 🖥️ Passionate about coding and software development  
+>>> 🤝 Sociable nature and good at building relationships  
+>>> 🗣️ Focus on open communication and empathy  
+>>> 🌍 Enjoy working with different people and learning from their experiences
 
 ###
 
