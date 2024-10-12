@@ -4,7 +4,7 @@
 
 <h4 align="center">My name is Juan Pablo, I am a Colombian software developer. ☕ 🇨🇴</h4>
 
-<h5 align="center">Another repository of my authorship ---> <a href="https://github.com/jsanabrh">Here</a></h5>
+<h5 align="center">Another repository of my authorship ---> <a target="_blank" href="https://github.com/jsanabrh">Here</a></h5>
 
 ###
 
